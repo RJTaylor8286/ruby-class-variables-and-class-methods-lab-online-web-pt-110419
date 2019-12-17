@@ -20,3 +20,10 @@ class Song
   end
   
   Song.count
+end
+
+  Song.genres
+end
+
+  Song.artists
+end
