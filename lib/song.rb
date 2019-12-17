@@ -1,2 +1,3 @@
 class Song 
-  def artists = 
+  def artists = ("Jay-Z", "Kendrick Lamar", "xxxTentacion")
+    
