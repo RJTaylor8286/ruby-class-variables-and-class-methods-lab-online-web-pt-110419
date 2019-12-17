@@ -14,3 +14,4 @@ i_dont_let_go = Song.new("I Dont Let Go", "xxxTentacion", "rap")
 
 class Song
   @@song_count = 3
+  
