@@ -9,4 +9,5 @@ end
 Songs = ("99 Problems", "Alright", "I Dont Let Go")
 
 ninety_nine_problems = Song.new("99 Problems", "Jay-Z", "rap")
-alright = SOng.new
+alright = Song.new("Alright", "Kendrick Lamar", "rap")
+i_dont_let_go = 
