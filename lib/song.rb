@@ -1,7 +1,12 @@
 class Song 
   
-  def artists = ("Jay-Z", "Kendrick Lamar", "xxxTentacion")
+  Song.artists = ("Jay-Z", "Kendrick Lamar", "xxxTentacion")
 end
 
-  def 
-  
+  Song.genres = ("Rap") 
+end
+
+Songs = ("99 Problems", "Alright", "I Dont Let Go")
+
+ninety_nine_problems = Song.new("99 Problems", "Jay-Z", "rap")
+alright = SOng.new
