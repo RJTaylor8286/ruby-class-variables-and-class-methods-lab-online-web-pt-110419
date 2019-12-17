@@ -3,4 +3,4 @@ class Song
   Song.artists
   Song.genres 
   
-  
+class Song
